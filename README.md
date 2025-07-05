@@ -25,10 +25,7 @@ This Python-based tool analyzes URLs and flags potentially malicious ones using 
 
 ---
 
-📦 Installation
-git clone https://github.com/yourusername/linkwise-linux.git
-cd linkwise-linux
-python3 linkwise.py
+
 
 ## 📷 Preview
 
@@ -41,5 +38,11 @@ Reasons:
 • Does not use HTTPS
 • Contains suspicious keyword: "login"
 • Contains suspicious keyword: "verify"
+
+
+📦 Installation
+git clone https://github.com/yourusername/linkwise-linux.git
+cd linkwise-linux
+python3 linkwise.py
 
 
