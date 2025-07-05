@@ -4,7 +4,7 @@ LinkWise is a lightweight web-based tool that helps users detect and analyze sus
 A powerful and lightweight terminal-based phishing URL detector.
 
 
- ##:::::::'####:'##::: ##:'##:::'##:::::::::::::::::::::::::::::::
+'##:::::::'####:'##::: ##:'##:::'##:::::::::::::::::::::::::::::::
  ##:::::::. ##:: ###:: ##: ##::'##::::::::::::::::::::::::::::::::
  ##:::::::: ##:: ####: ##: ##:'##:::::::::::::::::::::::::::::::::
  ##:::::::: ##:: ## ## ##: #####::::::::::::::::::::::::::::::::::
@@ -40,6 +40,11 @@ This Python-based tool analyzes URLs and flags potentially malicious ones using 
 
 ---
 
+📦 Installation
+git clone https://github.com/yourusername/linkwise-linux.git
+cd linkwise-linux
+python3 linkwise.py
+
 ## 📷 Preview
 
 ```bash
@@ -52,7 +57,4 @@ Reasons:
 • Contains suspicious keyword: "login"
 • Contains suspicious keyword: "verify"
 
-📦 Installation
-git clone https://github.com/yourusername/linkwise-linux.git
-cd linkwise-linux
-python3 linkwise.py
+
